@@ -1,4 +1,3 @@
-
 import getenv from "./envreader/getenv.ts";
 import server from "./server/server.ts";
 import index from "./server/index.html";
